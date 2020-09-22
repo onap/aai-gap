@@ -2,4 +2,3 @@
 #
 d29b0142f30806284b5768f69afa96f9f3d7f350                                	saml/onap-gerrit-aai-gap-committers
 daebbf523be390041a1a9c0e340a6d833aae5043                                	GitHub Replication
-ldap:cn=onap-gerrit-aai-gap-committers,ou=Groups,dc=freestandards,dc=org	ldap/onap-gerrit-aai-gap-committers
